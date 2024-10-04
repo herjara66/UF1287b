@@ -1,5 +1,5 @@
 
-# Examen UF1289: Desarrollo de Componentes Software para el Manejo de Dispositivos (Drivers)
+# Recuperación UF1287: Desarrollo de Componentes Software para el Manejo de Dispositivos (Drivers)
 
 ## Parte 1: Teoría (4 puntos)
 
